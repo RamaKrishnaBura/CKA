@@ -1,1 +1,1 @@
-# CKA
+# Kubernetes CKA Exam bookmarks
