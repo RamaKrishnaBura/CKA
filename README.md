@@ -1,3 +1,3 @@
 # Kubernetes CKA Exam Bookmarks
 
-There are the bookmarks I prepared and used during my CKA exam.
+Bookmarks for Certified Kubernetes Administrator (CKA) exam
